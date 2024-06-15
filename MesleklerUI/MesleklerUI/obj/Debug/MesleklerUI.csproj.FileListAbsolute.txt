@@ -1,0 +1,17 @@
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\Assembly-CSharp.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\Rocket.API.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\Rocket.Core.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\Rocket.Unturned.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\SDG.NetTransport.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\Steamworks.NET.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\Uconomy.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\UnityEngine.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\obj\Debug\MesleklerUI.csproj.AssemblyReference.cache
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\obj\Debug\MesleklerUI.csproj.CoreCompileInputs.cache
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\JobsUI.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\bin\Debug\JobsUI.pdb
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\obj\Debug\Meslekle.29E1ADF6.Up2Date
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\obj\Debug\JobsUI.dll
+C:\Users\yavus\source\repos\MesleklerUI\MesleklerUI\obj\Debug\JobsUI.pdb
